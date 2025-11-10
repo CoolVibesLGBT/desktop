@@ -1,4 +1,34 @@
 
+# CoolVibes
+
+**CoolVibes** is a safe, inclusive, and user-friendly gay dating app designed specifically for the LGBTI community worldwide. Whether you're seeking friendship, casual dating, or a serious relationship, CoolVibes provides a supportive platform to connect authentically with like-minded individuals.
+
+---
+
+## Features
+
+- 🌈 **Inclusive community:** Designed for gay, bisexual, transgender, and queer singles.
+- 🤝 **Connect authentically:** Meet new people, make friends, or find your perfect match.
+- 🔒 **Privacy & safety:** Your safety and privacy are our top priority.
+- 💬 **Easy-to-use interface:** Smooth, intuitive app experience.
+- 📍 **Local & global:** Discover people nearby or across the globe.
+- ❤️ **Meaningful relationships:** Support for serious dating and long-term connections.
+
+---
+
+## Why CoolVibes?
+
+CoolVibes aims to create a welcoming space where everyone can be themselves without judgment. We believe in building genuine connections and empowering the LGBTI community through technology.
+
+---
+
+## Installation
+
+### Build for macOS
+
+```bash
+./build.macos.sh
+
 
 # Deploy MacOS
 go build -o coolvibes main.go
